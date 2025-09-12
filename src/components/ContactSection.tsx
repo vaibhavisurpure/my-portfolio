@@ -13,18 +13,10 @@ const ContactSection = () => {
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center scroll-scale">
           <a 
-            href="mailto:vaibhavisurpure@gmail.com"
+            href="mailto:vaibhavi@byteahead.in"
             className="bg-secondary text-primary px-12 py-6 rounded-full font-bold text-xl hover:opacity-80 transition-all duration-300 hover:scale-105"
           >
             Get In Touch
-          </a>
-          <a 
-            href="https://www.linkedin.com/in/vaibhavisurpure/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="border-2 border-secondary text-secondary px-12 py-6 rounded-full font-bold text-xl hover:bg-secondary hover:text-primary transition-all duration-300 hover:scale-105"
-          >
-            LinkedIn
           </a>
         </div>
         
