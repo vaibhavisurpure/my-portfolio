@@ -13,7 +13,7 @@ const ContactSection = () => {
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center scroll-scale">
           <a 
-            href="mailto:vaibhavi@byteahead.in"
+            href="mailto:vaibhavi.surpure@byteahead.in"
             className="bg-secondary text-primary px-12 py-6 rounded-full font-bold text-xl hover:opacity-80 transition-all duration-300 hover:scale-105"
           >
             Get In Touch
